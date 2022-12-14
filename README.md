@@ -1,2 +1,2 @@
 # PersonalProjects
-Projetos desenvolvidos durante o aprendizado.
+Projetos desenvolvidos durante o aprendizado de novas tecnologias.
